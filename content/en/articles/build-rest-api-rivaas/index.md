@@ -79,4 +79,4 @@ This hands-on tutorial walks through building a production-quality REST API with
 
 -   [Getting Started in 5 Minutes](/blog/articles/getting-started-rivaas-5-minutes/)
 -   [Rivaas App Guide](/docs/guides/app/basic-usage/)
--   [Auto-Generating OpenAPI Docs](/blog/articles/auto-openapi-go-rivaas/)
+-   [OpenAPI and Swagger UI in Go](/blog/articles/auto-openapi-swagger-go-rivaas/)
