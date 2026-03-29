@@ -7,14 +7,9 @@
     external = true
 
 [[main]]
-  name = "Tutorials"
-  pageRef = "tutorials"
+  name = "Articles"
+  pageRef = "articles"
   weight = 20
-
-[[main]]
-  name = "Engineering"
-  pageRef = "engineering"
-  weight = 30
 
 [[main]]
   name = "Comparisons"

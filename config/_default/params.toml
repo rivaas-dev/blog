@@ -5,7 +5,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["tutorials", "engineering", "comparisons", "releases"]
+mainSections = ["articles", "comparisons", "releases"]
 
 # Fallback when a post has no featureimage (path is under assets/)
 defaultFeaturedImage = "images/featured/default.png"

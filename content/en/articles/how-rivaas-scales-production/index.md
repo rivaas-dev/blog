@@ -3,7 +3,7 @@ title: "How Rivaas Scales: Architecture and Production Patterns"
 date: 2027-02-01
 description: "A deep dive into Rivaas's architecture for production workloads -- zero-allocation routing, connection pooling, graceful shutdown, and scaling patterns for high-traffic Go APIs."
 author: "Rivaas Team"
-tags: [engineering, architecture, production, performance]
+tags: [deep-dive, engineering, architecture, production, performance]
 keywords:
   - go framework production
   - go api best practices
@@ -68,4 +68,4 @@ What does it take to run a Go API framework at scale? This engineering deep dive
 
 -   [Router Performance Benchmarks](/docs/reference/packages/router/performance/)
 -   [Rivaas Lifecycle Guide](/docs/guides/app/lifecycle/)
--   [Building Microservices with Rivaas in Kubernetes](/blog/tutorials/microservices-rivaas-kubernetes/)
+-   [Building Microservices with Rivaas in Kubernetes](/blog/articles/microservices-rivaas-kubernetes/)

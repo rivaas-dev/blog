@@ -63,4 +63,4 @@ Input validation and proper error handling are the first line of defense for any
 
 -   [Rivaas Validation Package](/docs/reference/packages/validation/)
 -   [Rivaas Binding Guide](/docs/guides/app/basic-usage/)
--   [Building a REST API with Rivaas](/blog/tutorials/build-rest-api-rivaas/)
+-   [Building a REST API with Rivaas](/blog/articles/build-rest-api-rivaas/)

@@ -77,6 +77,6 @@ This hands-on tutorial walks through building a production-quality REST API with
 
 ## Links
 
--   [Getting Started in 5 Minutes](/blog/tutorials/getting-started-rivaas-5-minutes/)
+-   [Getting Started in 5 Minutes](/blog/articles/getting-started-rivaas-5-minutes/)
 -   [Rivaas App Guide](/docs/guides/app/basic-usage/)
--   [Auto-Generating OpenAPI Docs](/blog/tutorials/auto-openapi-go-rivaas/)
+-   [Auto-Generating OpenAPI Docs](/blog/articles/auto-openapi-go-rivaas/)

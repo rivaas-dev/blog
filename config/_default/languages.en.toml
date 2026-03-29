@@ -8,7 +8,7 @@ title = "Rivaas Blog"
 
 [params.author]
   name = "Rivaas Team"
-  headline = "Tutorials, engineering deep-dives, and release notes for the Rivaas Go framework."
+  headline = "Articles, comparisons, and release notes for the Rivaas Go framework."
   links = [
     { github = "https://github.com/rivaas-dev/rivaas" },
     { x-twitter = "https://x.com/rivaas_dev" },

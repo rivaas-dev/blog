@@ -3,7 +3,7 @@ title: "Built-in Observability in Go: Tracing and Metrics with Rivaas"
 date: 2026-07-01
 description: "Learn how Rivaas integrates OpenTelemetry tracing, Prometheus metrics, and structured logging into your Go API without extra dependencies or boilerplate."
 author: "Rivaas Team"
-tags: [observability, opentelemetry, prometheus, tracing, metrics]
+tags: [deep-dive, observability, opentelemetry, prometheus, tracing, metrics]
 keywords:
   - opentelemetry go example
   - golang observability middleware

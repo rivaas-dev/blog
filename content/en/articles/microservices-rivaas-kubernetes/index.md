@@ -62,4 +62,4 @@ Rivaas was designed for cloud-native environments. This tutorial shows how its b
 
 -   [Rivaas Health Endpoints Guide](/docs/guides/app/health-endpoints/)
 -   [Rivaas Lifecycle Guide](/docs/guides/app/lifecycle/)
--   [Building a REST API with Rivaas](/blog/tutorials/build-rest-api-rivaas/)
+-   [Building a REST API with Rivaas](/blog/articles/build-rest-api-rivaas/)
