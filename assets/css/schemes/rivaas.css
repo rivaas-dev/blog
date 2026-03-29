@@ -1,0 +1,38 @@
+:root {
+  /* Neutral: Rivaas gray ladder (#F8FAF9 white → #0D1E1A night) */
+  --color-neutral: 248, 250, 249;
+  --color-neutral-50: 248, 250, 249;
+  --color-neutral-100: 228, 240, 236;
+  --color-neutral-200: 188, 200, 195;
+  --color-neutral-300: 149, 168, 162;
+  --color-neutral-400: 92, 107, 102;
+  --color-neutral-500: 68, 82, 79;
+  --color-neutral-600: 58, 73, 70;
+  --color-neutral-700: 46, 61, 57;
+  --color-neutral-800: 22, 40, 35;
+  --color-neutral-900: 13, 30, 26;
+
+  /* Primary: Rivaas alpine green (#3FAF98 light → #1E6F5C mid → #155A49 dark) */
+  --color-primary-50: 230, 248, 244;
+  --color-primary-100: 192, 237, 228;
+  --color-primary-200: 140, 216, 200;
+  --color-primary-300: 91, 195, 173;
+  --color-primary-400: 63, 175, 152;
+  --color-primary-500: 30, 111, 92;
+  --color-primary-600: 24, 97, 80;
+  --color-primary-700: 21, 90, 73;
+  --color-primary-800: 16, 72, 58;
+  --color-primary-900: 10, 52, 42;
+
+  /* Secondary: Rivaas glacier cyan (#0891B2) */
+  --color-secondary-50: 224, 247, 252;
+  --color-secondary-100: 186, 236, 247;
+  --color-secondary-200: 128, 214, 235;
+  --color-secondary-300: 70, 191, 222;
+  --color-secondary-400: 24, 163, 200;
+  --color-secondary-500: 8, 145, 178;
+  --color-secondary-600: 6, 122, 150;
+  --color-secondary-700: 5, 100, 123;
+  --color-secondary-800: 4, 77, 95;
+  --color-secondary-900: 2, 54, 67;
+}

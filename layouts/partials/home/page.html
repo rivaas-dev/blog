@@ -1,0 +1,18 @@
+<div
+  class="homepage-main mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 md:pt-12 pb-4 md:pb-8">
+  <article class="max-w-full prose dark:prose-invert">
+    {{ with .Title }}
+      {{ if eq . $.Site.Title }}
+        <h1 class="sr-only">{{ . | emojify }}</h1>
+      {{ else }}
+        <header>
+          <h1>{{ . | emojify }}</h1>
+        </header>
+      {{ end }}
+    {{ end }}
+    <section class="w-full">{{ .Content }}</section>
+  </article>
+  <section class="mt-8 md:mt-12">
+    {{ partial "recent-articles/main.html" . }}
+  </section>
+</div>

@@ -1,0 +1,21 @@
+baseURL = "https://rivaas.dev/blog/"
+title = "Rivaas Blog"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

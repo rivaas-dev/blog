@@ -1,0 +1,92 @@
+colorScheme = "rivaas"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["tutorials", "engineering", "comparisons", "releases"]
+
+# Fallback when a post has no featureimage (path is under assets/)
+defaultFeaturedImage = "images/featured/default.png"
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "page"
+  homepageImage = ""
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "tags"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = true
+  showAuthor = true
+  showHero = true
+  heroStyle = "background"
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  showAuthorsBadges = false
+  showWordCount = false
+  showSummary = true
+  sharingLinks = ["x-twitter", "linkedin", "reddit", "email"]
+
+[list]
+  showHero = false
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showCards = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
+
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  showBreadcrumbs = true
+  showTableOfContents = false
+  cardView = true
+
+[term]
+  showHero = false
+  showBreadcrumbs = true
+  showTableOfContents = false
+  showCards = true
+  cardView = true
+  groupByYear = false
+
+[fuse]
+  keys = ["title", "permalink", "summary", "content"]
+  threshold = 0.2
+  includeMatches = true
+  minMatchCharLength = 2
+
+[sitemap]
+  excludedKinds = []
