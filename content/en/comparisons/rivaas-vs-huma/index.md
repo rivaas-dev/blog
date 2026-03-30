@@ -38,7 +38,7 @@ Huma stays **router-agnostic**. The host router listens and picks the handler. T
 
 Rivaas **`app`** owns the HTTP server lifecycle when you call `app.New` and `Start`: timeouts, shutdown, optional health routes, and observability hooks are part of the same layer. **OpenAPI** and **Swagger UI** on Rivaas are wired through **`app`**. If you only need routing speed or `net/http` handlers, you use **`router`** without `app` (no bundled document server on that path).
 
-```mermaid
+{{< mermaid >}}
 flowchart LR
   subgraph humaStack [Huma typical stack]
     HR[Host router]
@@ -52,7 +52,7 @@ flowchart LR
     HD[Handler with app.Context]
     APP --> RT --> HD
   end
-```
+{{< /mermaid >}}
 
 ## Side-by-side technical points
 
