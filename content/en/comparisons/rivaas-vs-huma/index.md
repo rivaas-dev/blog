@@ -1,5 +1,5 @@
 ---
-title: "Rivaas vs Huma: Go REST API & OpenAPI Framework Comparison"
+title: "Rivaas vs Huma: Go API Frameworks Compared"
 date: 2026-03-30
 description: "Compare Rivaas and Huma for Go REST APIs: OpenAPI docs, validation and binding, routing (BYOR vs Rivaas router), observability, graceful shutdown, and testing. Practical trade-offs for choosing a framework."
 author: "Rivaas Team"
@@ -18,9 +18,9 @@ sitemap:
   priority: 0.85
 ---
 
-This post compares two Go tools for HTTP APIs: **[Huma](https://huma.rocks/)** and **Rivaas**. Both can produce **OpenAPI** docs from your code. They solve similar problems in different ways.
+This post compares two **Go frameworks** for HTTP APIs: **[Huma](https://huma.rocks/)** and **Rivaas**. Both can produce **OpenAPI** docs from your code. They solve similar problems in different ways.
 
-**Disclosure:** Rivaas is our project. We wrote this comparison to explain real trade-offs, not to claim that one tool always wins. If you already use Chi, Gin, or another router with Huma, your reasons may still be valid after you read this.
+**Disclosure:** Rivaas is our project. We wrote this comparison to explain real trade-offs, not to claim that one framework always wins. If you already use Chi, Gin, or another router with Huma, your reasons may still be valid after you read this.
 
 ## Who this is for
 
