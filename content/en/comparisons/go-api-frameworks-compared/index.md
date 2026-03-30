@@ -90,6 +90,7 @@ There's no single "best" Go web framework. The right choice depends on your team
 
 ## Further Reading
 
+- [Rivaas vs Huma: technical comparison](/blog/comparisons/rivaas-vs-huma/)
 - [Rivaas router benchmarks](/docs/reference/packages/router/performance/)
 - [Getting started with Rivaas](/blog/articles/getting-started-rivaas-5-minutes/)
 - [Rivaas documentation](/docs/)
